@@ -1,30 +1,41 @@
 # 3AmRecipeGenerator
 Recipe Finder &amp; Cookbook App A cross-platform mobile application built with React Native that allows users to search for recipes, save their favorites for offline access, and generate shopping lists from recipe ingredients. This project demonstrates API integration, local data persistence, and a clean user interface.
 Features
-Recipe Search: Discover recipes by keyword, leveraging the Spoonacular API's vast database.
+Recipe Search:
+ Discover recipes by keyword, leveraging the Spoonacular API's vast database.
 
-Recipe Details: View comprehensive information for each recipe, including ingredients, step-by-step instructions, preparation time, and serving size.
+Recipe Details:
+ View comprehensive information for each recipe, including ingredients, step-by-step instructions, preparation time, and serving size.
 
-Favorite Recipes: Save your preferred recipes locally for quick access, even when offline.
+Favorite Recipes:
+ Save your preferred recipes locally for quick access, even when offline.
 
-Shopping List Generator: Automatically create a consolidated shopping list from the ingredients of selected recipes.
+Shopping List Generator:
+ Automatically create a consolidated shopping list from the ingredients of selected recipes.
 
-Custom Shopping List Items: Manually add or remove items from your shopping list.
+Custom Shopping List Items:
+ Manually add or remove items from your shopping list.
 
-Offline Access: Favorited recipes and shopping lists are stored on the device, ensuring availability without an internet connection.
+Offline Access:
+ Favorited recipes and shopping lists are stored on the device, ensuring availability without an internet connection.
 
-Intuitive Navigation: Easy switching between search, favorites, and shopping list screens.
+Intuitive Navigation:
+ Easy switching between search, favorites, and shopping list screens.
 
 Technologies Used
-React Native: For building native mobile applications using JavaScript and React.
+React Native:
+ For building native mobile applications using JavaScript and React.
 
-Spoonacular API: The primary data source for fetching recipe information.
+Spoonacular API:
+ The primary data source for fetching recipe information.
 
 @react-native-async-storage/async-storage: For local, persistent key-value storage, enabling offline capabilities.
 
-React Context API: For efficient state management across the application.
+React Context API:
+ For efficient state management across the application.
 
-fetch API: For making HTTP requests to the Spoonacular API.
+fetch API:
+ For making HTTP requests to the Spoonacular API.
 
 Setup and Running the Project
 To get this project up and running on your local machine, follow these steps:
