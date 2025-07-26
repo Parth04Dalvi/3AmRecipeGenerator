@@ -29,10 +29,7 @@ fetch API: For making HTTP requests to the Spoonacular API.
 Setup and Running the Project
 To get this project up and running on your local machine, follow these steps:
 
-Clone the repository:
-
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+Clone the repository
 
 Install dependencies:
 
