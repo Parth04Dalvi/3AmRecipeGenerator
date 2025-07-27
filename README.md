@@ -29,6 +29,10 @@ React Native:
 Spoonacular API:
  The primary data source for fetching recipe information.
 
+<img width="793" height="722" alt="image" src="https://github.com/user-attachments/assets/59f0b94f-29c3-4be2-8087-29a6b79b0953" />
+
+
+
 @react-native-async-storage/async-storage: For local, persistent key-value storage, enabling offline capabilities.
 
 React Context API:
@@ -78,6 +82,11 @@ For Android:
 
 npx react-native run-android
 
+
+<img width="709" height="566" alt="image" src="https://github.com/user-attachments/assets/f203f7d4-bf82-4363-a2c2-fafbd1e26c94" />
+
+
+
 Future Improvements
 Advanced Local Database: Migrate from AsyncStorage to a more robust local database like SQLite (react-native-sqlite-storage) or Realm for more complex data querying and relationships.
 
@@ -94,3 +103,7 @@ Pagination/Infinite Scrolling: Implement lazy loading for search results to impr
 Custom Filters: Allow users to apply more granular filters (e.g., cooking time, calorie count, excluded ingredients).
 
 Meal Planning: Extend functionality to allow users to plan meals for a week and generate a consolidated shopping list for the entire plan.
+
+
+<img width="606" height="789" alt="image" src="https://github.com/user-attachments/assets/4ebe7ffa-490f-4082-8227-2b5853d53002" />
+
